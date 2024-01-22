@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.instagram.com/bhuvi_kr_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhuvi_kr_r" height="30" width="40" /></a>
 <a href="https://twitter.com/BhuwanKumarRai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BhuwanKumarRai1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhuwan-kumar-rai-762206202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhuvi_kr_r" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
