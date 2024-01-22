@@ -28,7 +28,7 @@
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40" /> </a>
 </p>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> React </a>
+<a href="https://legacy.reactjs.org/tutorial/tutorial.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40"/> React </a>
 
 ## Github Stats 📃:
 
